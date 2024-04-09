@@ -1,0 +1,6 @@
+TransactionID,PurchaseDate,CustomerID,BookTitle,Quantity,SalePrice
+1,2023-01-01,101,The Great Gatsby,1,20.0
+2,2023-01-03,102,To Kill a Mockingbird,2,15.0
+3,2023-02-01,103,Brave New World,1,18.0
+4,2023-02-05,101,Catch-22,1,22.0
+5,2023-02-07,102,Animal Farm,3,12.0
